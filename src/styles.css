@@ -1,0 +1,16 @@
+.App {
+  font-family: courier, courier new, serif;
+  text-align: center;
+  background: #eceac8;
+}
+
+.background {
+  background: green;
+}
+
+.main-page-image {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

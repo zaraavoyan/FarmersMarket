@@ -1,2 +1,0 @@
-# FarmersMarket
-Created with CodeSandbox
